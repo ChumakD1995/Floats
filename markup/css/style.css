@@ -4,7 +4,6 @@
 
 .main_container {
     max-width: 1100px;
-    padding: 0 0px;
     margin: 45px auto;
     background: #C4C4C4;
 }
@@ -20,7 +19,6 @@
 .box1 {
     overflow: hidden;
     max-width: 800px;
-    padding: 0 0px;
     margin: 45px auto;
     background: #E6E6E6;
 }
@@ -28,8 +26,6 @@
 .left1, .right1 {
     width: 200px;
     float: left;
-    margin: 0px;
-    padding: 0 0 0 0;
     background: #FC8F8F;
 }
 
@@ -47,7 +43,6 @@
 .box2 {
     overflow: hidden;
     max-width: 800px;
-    padding: 0 0px;
     margin: 0px auto;
     background: #E6E6E6;
 }
@@ -59,8 +54,6 @@
 .left2 {
     width: 200px;
     float: left;
-    margin: 0px;
-    padding: 0 0 0 0;
     background: #FC8F8F;
 } 
 
@@ -81,7 +74,6 @@
 }
 
 .right2 {
-    padding: 0 0 0 0;
     margin: 0 -9px;
     float: right;
 }
@@ -89,7 +81,6 @@
 .box3 {
     overflow: hidden;
     max-width: 800px;
-    padding: 0 0px;
     margin: 45px auto;
     background: #E6E6E6;
 }
